@@ -24,11 +24,9 @@ The project can be divided into 5 step process:
 
 **Labelling the data and analysising sentiments:**
 The csv file contains manual labeling of sentiment words and manual analysis of sentiment. This has been recorded along with a sentiment analyser's output.
-[https://github.com/AnushaNathRoy/Depression-and-Anxiety-Prediction-on-Social-Media/blob/main/SentimentAnalysisData.csv]
 
 **Analysis and observations on sentiment analysis:**
 This manual labelling gave a lot of insights on the drawbacks of automation of sentiment analysis and scopes for improvement.
-[https://github.com/AnushaNathRoy/Depression-and-Anxiety-Prediction-on-Social-Media/blob/main/SentimentAnalysis.pdf]
 
 ## Step 2: Cleaning Data
 
